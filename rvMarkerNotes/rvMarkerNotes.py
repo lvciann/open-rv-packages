@@ -6,3 +6,7 @@ from rv.extra_commands import *
 class rvMarkerNotes(MinorMode):
     def __init__(self):
         pass
+
+
+def createMode():
+    return rvMarkerNotes()
