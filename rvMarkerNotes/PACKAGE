@@ -5,8 +5,8 @@ rv: 4.0.0
 requires: ""
 
 modes:
-  - file: rvMarkerNotes.py
-    load: delay
+  - file: mystuff
+    load: immediate
 
 description: |
   <p>Luciann's package to create a pop up when adding a marker</p>
