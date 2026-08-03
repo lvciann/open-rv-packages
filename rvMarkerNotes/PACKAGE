@@ -1,0 +1,12 @@
+package: Marker Notes
+author: Luciann V.
+version: 1.0
+rv: 4.0.0
+requires: ""
+
+modes:
+  - file: mystuff
+    load: immediate
+
+description: |
+  <p>Luciann's package to create a pop up when adding a marker</p>
