@@ -1,12 +1,12 @@
 package: Marker Notes
 author: Luciann V.
-version: 1.0
+version: 1.2
 rv: 4.0.0
 requires: ""
 
 modes:
   - file: rvMarkerNotes.py
-    load: delay
+    load: immediate
 
 description: |
-  <p>Luciann's package to create a pop up when adding a marker</p>
+  <p>Luciann's package to create a pop up when adding a marker to timeline, but instead of pressing m-key, press j-key</p>
