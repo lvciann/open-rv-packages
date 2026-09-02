@@ -1,6 +1,6 @@
 package: Marker Notes
 author: Luciann V.
-version: 1.4
+version: 1.5
 rv: 4.0.0
 requires: ""
 
@@ -12,3 +12,5 @@ description: |
   <p>Package to create a pop up when adding a marker to timeline, but instead of pressing m-key, press j-key. 
   If user needs to edit a note on marker, can press j again to to edit, and new note will override old one.
   After saving session, marker notes along timeline persist.</p>
+
+  <p>Includes checkbox that gives user ability to check off tasks written in pop-up.</p>
